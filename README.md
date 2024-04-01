@@ -1,5 +1,5 @@
 #ejercicio 2
- ###.gitignore
+###.gitignore
 _Los archivos ignorados suelen ser artefactos de compilación y archivos generados por el equipo que pueden derivarse de tu fuente de repositorios o que no deberían confirmarse por algún otro motivo._
 
 **¿por que es conveniente incluirlo?**
