@@ -1,4 +1,4 @@
-### .gitignore
+#### .gitignore
 _Los archivos ignorados suelen ser artefactos de compilación y archivos generados por el equipo que pueden derivarse de tu fuente de repositorios o que no deberían confirmarse por algún otro motivo._
 
 **¿por que es conveniente incluirlo?**
@@ -20,8 +20,12 @@ ignorarArchivo.txt
 pasara lo siguiente:
   - ignorara todos los archivos _".dat"_
   - ignorara todos los archivos que se encuentres en la carpeta _"resultados"_
-
-  ## 3c
-
-   Puedo ver los archivos .exe y .cpp, el que no hace falta es el ejecutable (.exe).
   - ignorara el archivo lamado _"ignorarArchivo.txt"._
+### 3c
+
+ Puedo ver los archivos .exe y .cpp, el que no hace falta es el ejecutable (.exe).
+  
+
+##3g
+
+  en el apartado 2 y 3 se puede ver lo mismo ya que el puntero trabaja guardando la direccion de memoria de la variable _"num"_ por lo que el contenido de la variable _"puntero"_ sera el mismo que el de _"num"_. Del punto 4 obtenemos la direccion de memoria del puntero, no la de lo que apunta es por esto que no es lo mismo que las anteriormente mencionadas. 
