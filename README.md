@@ -1,5 +1,4 @@
-###README TP01
-**.gitignore**
+### .gitignore
 _Los archivos ignorados suelen ser artefactos de compilación y archivos generados por el equipo que pueden derivarse de tu fuente de repositorios o que no deberían confirmarse por algún otro motivo._
 
 **¿por que es conveniente incluirlo?**
@@ -22,7 +21,7 @@ pasara lo siguiente:
   - ignorara todos los archivos _".dat"_
   - ignorara todos los archivos que se encuentres en la carpeta _"resultados"_
 
-  **ejercicio 03**
+  ## 3c
 
-  **c)** Puedo ver los archivos .exe y .cpp, el que no hace falta es el ejecutable (.exe).
+   Puedo ver los archivos .exe y .cpp, el que no hace falta es el ejecutable (.exe).
   - ignorara el archivo lamado _"ignorarArchivo.txt"._
