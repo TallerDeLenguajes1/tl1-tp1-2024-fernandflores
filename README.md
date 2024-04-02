@@ -20,4 +20,8 @@ ignorarArchivo.txt
 pasara lo siguiente:
   - ignorara todos los archivos _".dat"_
   - ignorara todos los archivos que se encuentres en la carpeta _"resultados"_
+
+  ##ejercicio 03
+
+  **c)**Puedo ver los archivos .exe y .cpp, el que no hace falta es el ejecutable (.exe).
   - ignorara el archivo lamado _"ignorarArchivo.txt"._
