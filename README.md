@@ -29,3 +29,6 @@ pasara lo siguiente:
 ## 3g
 
   en el apartado 2 y 3 se puede ver lo mismo ya que el puntero trabaja guardando la direccion de memoria de la variable _"num"_ por lo que el contenido de la variable _"puntero"_ sera el mismo que el de _"num"_. Del punto 4 obtenemos la direccion de memoria del puntero, no la de lo que apunta es por esto que no es lo mismo que las anteriormente mencionadas. 
+
+# observacion:
+luego de hacer el archivo .gitignore podemos observar como ignoro el archivo tp1_2.exe, por lo tanto se encuentra funcionando correctamente.
